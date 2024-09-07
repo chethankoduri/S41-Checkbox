@@ -1,0 +1,18 @@
+.App {
+  text-align:center;
+}
+
+form{
+  display:inline-block;
+  background-color:aquamarine;
+}
+label{
+  display: inline-block;
+  width: 100px;
+}
+form div{
+margin:10px;
+}
+.innerlable{
+  width: auto;
+};
